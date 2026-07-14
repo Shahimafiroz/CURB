@@ -1,0 +1,39 @@
+:root {
+  font-family: "Nunito", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #4d5156;
+  background-color: #f8f9ff;
+  color: #4d5156;
+  background-color: #f8f9ff;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family:
+    "Nunito", sans-serif; /* Default font family for the entire app */
+  font-weight: 400; /* Default weight (Regular) */
+  margin: 0; /* Remove default margin */
+}
+
+/* Default style for Nunito font */
+.nunito-regular {
+  font-family: "Nunito", sans-serif;
+  font-weight: 400; /* Regular weight */
+}
+
+.nunito-bold {
+  font-family: "Nunito", sans-serif;
+  font-weight: 700; /* Bold weight */
+}
+
+.nunito-light {
+  font-family: "Nunito", sans-serif;
+  font-weight: 200; /* Light weight */
+}
