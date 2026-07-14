@@ -223,7 +223,9 @@ function Home() {
       </div>
 
       <div style={styles.footer}>
-        contact@curb.market &nbsp;·&nbsp; linkedin.com/company/curb
+        A project by SHAHIMA FIROZ KHAN &nbsp;·&nbsp;
+        https://github.com/Shahimafiroz &nbsp;·&nbsp;
+        https://www.linkedin.com/in/shahima-firoz-khan-0276b11b9/
       </div>
     </div>
   );
