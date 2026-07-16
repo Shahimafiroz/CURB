@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" >
 
-# 🚧 CURB
+# 🚧 CURB (https://shimmiscurb.vercel.app/)
 
 ### _Stop blocked transfers before they happen._
 
